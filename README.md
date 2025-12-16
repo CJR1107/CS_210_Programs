@@ -1,2 +1,7 @@
 # CS_210_Programs
 Programming Languages Course - C++
+This project, Corner Grocer (Project #3), focused on reading a list of purchased items from a file, counting how often each item appeared, and displaying the results in different formats. The program solved the problem of tracking item frequency in a simple and efficient way using C++ and file input and output. I did particularly well at organizing the program logic and breaking the problem into manageable steps. Using loops, functions, and data structures helped keep the code clear and made it easier to follow and debug.
+
+The code could be enhanced by adding stronger input validation and more detailed error handling, especially when reading from files. These improvements would make the program more secure and reliable by preventing issues caused by missing or invalid data. The most challenging part of the project was implementing file input and ensuring the data was processed correctly. I overcame this by testing the program in small steps, using debugging tools, and referring to course materials and documentation. Going forward, I plan to continue using these resources and online references to support my learning.
+
+The skills gained from this project, including C++ programming, file handling, problem-solving, and debugging, are highly transferable to future coursework and other programming projects. I also focused on making the program maintainable and readable by using clear variable names, consistent formatting, and comments, which makes the code easier to adapt or extend in the future.
